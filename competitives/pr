@@ -1,0 +1,112 @@
+	third dropdown
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown3" name="dropdown3" />
+		<label class="for-dropdown" for="dropdown3">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown3-sub" name="dropdown3-sub" />
+			<label class="for-dropdown-sub" for="dropdown3-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<!-- Duplicated sub-menu -->
+			<input class="dropdown-sub" type="checkbox" id="dropdown3-sub-2" name="dropdown3-sub-2" />
+			<label class="for-dropdown-sub" for="dropdown3-sub-2">Resources<i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Video Lecture<i class="uil uil-arrow-right"></i></a>
+				<a href="#">Practice Questions<i class="uil uil-arrow-right"></i></a>
+			</div>
+			<!-- End of duplicated sub-menu -->
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<!-- Duplicated sub-menu -->
+			<input class="dropdown-sub" type="checkbox" id="dropdown3-sub-3" name="dropdown3-sub-3" />
+			<label class="for-dropdown-sub" for="dropdown3-sub-3">Resources<i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Video Lecture<i class="uil uil-arrow-right"></i></a>
+				<a href="#">Practice Questions<i class="uil uil-arrow-right"></i></a>
+			</div>
+			<!-- End of duplicated sub-menu -->
+		</div>
+	</div>
+	<!-- fourth dropdown -->
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown4" name="dropdown4" />
+		<label class="for-dropdown" for="dropdown4">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown4-sub" name="dropdown4-sub" />
+			<label class="for-dropdown-sub" for="dropdown4-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+		</div>
+	</div>
+	<!-- fifth dropdown -->
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown5" name="dropdown5" />
+		<label class="for-dropdown" for="dropdown5">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown5-sub" name="dropdown5-sub" />
+			<label class="for-dropdown-sub" for="dropdown5-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+		</div>
+	</div>
+	<!-- Sixth dropdown -->
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown6" name="dropdown6" />
+		<label class="for-dropdown" for="dropdown6">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown6-sub" name="dropdown6-sub" />
+			<label class="for-dropdown-sub" for="dropdown6-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+		</div>
+	</div>
+	<!-- Seventh dropdown -->
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown7" name="dropdown7" />
+		<label class="for-dropdown" for="dropdown7">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown7-sub" name="dropdown7-sub" />
+			<label class="for-dropdown-sub" for="dropdown7-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+		</div>
+	</div>
+	<!-- eigth dropdown -->
+	<div class="sec-center">
+		<input class="dropdown" type="checkbox" id="dropdown8" name="dropdown8" />
+		<label class="for-dropdown" for="dropdown8">Dropdown Menu <i class="uil uil-arrow-down"></i></label>
+		<div class="section-dropdown">
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<input class="dropdown-sub" type="checkbox" id="dropdown8-sub" name="dropdown8-sub" />
+			<label class="for-dropdown-sub" for="dropdown8-sub">Dropdown Sub <i class="uil uil-plus"></i></label>
+			<div class="section-dropdown-sub">
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+				<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			</div>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+			<a href="#">Dropdown Link <i class="uil uil-arrow-right"></i></a>
+		</div>
+	</div>
